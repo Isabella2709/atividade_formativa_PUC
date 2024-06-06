@@ -14,10 +14,8 @@ elif(escolha_menu == 4):
 elif(escolha_menu == 5):
   print("====== [MATRICULAS] MENU DE OPERAÇÕES ====== \n 1. Incluir \n 2. Listar \n 3. Atualizar \n 4. Excluir \n 5. Voltar ao menu inicial")
 elif(escolha_menu == 6):
-  print("Voltando ao menu inicial.")
+  print("Obrigada por ultilizar nosso sistema, esperamos te ver em breve.")
 else:
   print("Opção invalida, por favor informe um numero valido, você sera direcionado para o menu inicial.")
 
 print("===================================") 
-
-print("Obrigada por ultilizar nosso sistema, esperamos te ver em breve.")
